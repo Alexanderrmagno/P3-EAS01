@@ -1,7 +1,7 @@
 # Instrucciones.
 
-1. Haz fork del repositorio a tu cuenta de GitHub.
-2. Haz clone de tu repositorio a tu PC. (Recuerda hacerlo con SSH).
+1. Haz fork del repositorio a tu cuenta de GitHub. a
+2. Haz clone de tu repositorio a tu PC. (Recuerda hacerlo con SSH).a
 3. Abre el folder que se creo al clonar el repositorio. Hazlo abriendo un folder desde File > Open Folder o navegando desde la terminal.
 4. Modifica el código para que cumpla con los siguientes requerimientos:
 
