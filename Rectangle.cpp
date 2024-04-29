@@ -89,10 +89,6 @@ void Rectangle::setObjective(Vector2f objective)
           - La velocidad es la dirección hacia el objetivo dividida por la magnitud de la dirección, multiplicada por un factor para cada eje.
     */
 
-this->setObjective
-{
-
-}
 
 }
 
